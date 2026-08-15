@@ -22,7 +22,8 @@ and stays strictly on-topic.
 # 1. (Recommended) create a virtual environment
 python -m venv venv
 source venv/bin/activate      # Windows: venv\Scripts\activate
-
+import streamlit as st
+from groq import Groq
 # 2. Install dependencies — do this INSIDE the venv you'll run the app from
 pip install -r requirements.txt
 # or directly:
