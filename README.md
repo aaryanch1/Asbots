@@ -11,7 +11,10 @@ and stays strictly on-topic.
 - `.streamlit/config.toml` — forces Streamlit's native dark theme (keep this
   folder alongside `asbots.py` — it's what makes dropdowns/sliders/inputs
   match the dark UI, not just the chat area)
-- `requirements.txt` — Python dependencies
+- `requirements.txt`
+-streamlit
+-groq
+— Python dependencies
 
 ## Setup
 
