@@ -41,7 +41,7 @@ except ImportError:
 # Fallback key so the app runs even with no .env file / no env var set.
 # You can still override it by setting GROQ_API_KEY in your environment
 # or in a .env file placed next to this script.
-DEFAULT_GROQ_API_KEY = "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"
+DEFAULT_GROQ_API_KEY = "enter your key here"
 
 APP_NAME = "AsBots"
 APP_TAGLINE = "Senior Medical Assistant · Evidence-Based Answers Only"
